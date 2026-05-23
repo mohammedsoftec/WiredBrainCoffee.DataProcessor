@@ -20,3 +20,4 @@ Console.WriteLine();
 Console.WriteLine($"File {fileName} was successfully processed!");
 
 Console.ReadLine();
+
