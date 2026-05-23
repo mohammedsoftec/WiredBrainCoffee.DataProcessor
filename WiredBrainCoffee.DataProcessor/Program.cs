@@ -20,8 +20,3 @@ Console.WriteLine();
 Console.WriteLine($"File {fileName} was successfully processed!");
 
 Console.ReadLine();
-
-
-
-// some code to test actions git
-// some code to test actions git
